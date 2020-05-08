@@ -1,4 +1,20 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Resume 
+
+Created for a [Cleveland React ](https://clereact.dev/) workshop. 
+
+Concept and layout stolen from [react-resume-template](https://github.com/tbakerx/react-resume-template)
+
+This is a completed project. However, the important part of learning is the journey, not the destination. 
+
+I suggest you ignore this implementation as much as possible and look at 
+[the deployed version](https://awesome-banach-309372.netlify.app/) to create your own implementation. 
+
+If you really want to learn a lot, do two implementations and take a very different approach the second time. 
+
+Feel free to browse the code and compare it to your completed implementation. (Don't worry, no one will know if you peak at it before your version is complete!)
+
+I'm happy to talk about this code, or anything else, and help you learn. Feel free to schedule a time to chat by visiting [schedule.dalelotts.com](http://schedule.dalelotts.com).
+
 
 ## Available Scripts
 

@@ -1,0 +1,24 @@
+.testimonials {
+  background: #fff;
+  min-height: 200px;
+
+  blockquote {
+    margin: 0 0 30px 0;
+    padding: 20px;
+
+    p {
+      font-family: 'Libre Baskerville', serif;
+      font-size: 24px;
+      line-height: 48px;
+    }
+
+    cite{
+      font-family: 'Roboto', sans-serif;
+      font-size: 12px;
+      &:before {
+        content: "\2014 \0020";
+      }
+    }
+  }
+}
+

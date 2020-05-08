@@ -4,6 +4,15 @@ import './index.scss';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+import WebFontLoader from 'webfontloader'
+
+WebFontLoader.load({
+  custom: {
+    families: ["FontAwesome"],
+    urls: ["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css"]
+  }
+});
+
 ReactDOM.render(
   <React.StrictMode>
     <App />

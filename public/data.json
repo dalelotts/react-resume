@@ -1,0 +1,168 @@
+{
+  "home": {
+    "name": "Dale Lotts",
+    "ima": "I'm an eXtreme Programming (XP) player-coach and Software Engineer",
+    "introduction": [
+      "I'm available Corp-to-Corp contracts anywhere in the world, with travel up to 100%.",
+      "My rates are $150/hour + Travel and Expenses (T&E)"
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/dalelotts/",
+      "github": "https://www.github.com/dalelotts",
+      "stack-overflow": "https://stackoverflow.com/users/1578045/dale-lotts",
+      "twitter": "https://www.twitter.com/dalelotts"
+    }
+  },
+  "about": [
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In pretium orci in risus eleifend, sed iaculis tortor varius. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque vestibulum aliquet nisl, tempus luctus nisi blandit nec. Aenean mattis lectus diam, sit amet tincidunt nisl pretium at. Curabitur eu rhoncus odio, sit amet ultricies enim. Donec sit amet velit viverra, tempus magna vitae, suscipit erat. Phasellus fermentum nisl ac elit placerat laoreet. In eget elementum eros. Aenean ut metus sapien. Donec rutrum eu lacus nec auctor. Sed ornare leo a risus fringilla cursus.",
+    "Quisque et mauris rhoncus quam convallis tempor ut vitae tortor. Nunc congue tempor erat non mattis. Sed vulputate eu lacus at molestie. Phasellus accumsan semper urna, a volutpat lacus ullamcorper nec. Nunc vulputate consequat vulputate. Donec auctor gravida bibendum. Nullam sagittis eu ex at tincidunt. Sed rhoncus tortor in risus tempor porta.",
+    "Curabitur eu luctus velit, eu pellentesque quam. Duis id accumsan quam, a fermentum velit. Sed imperdiet lorem nulla, et pulvinar est accumsan in. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut rutrum, sapien eget interdum finibus, velit ante tincidunt ante, vel vehicula tortor leo a arcu. Nullam finibus magna velit, sed egestas elit imperdiet in. Phasellus accumsan erat at posuere euismod."
+  ],
+  "resume": {
+    "work experience": [
+      {
+        "heading": "Knight Rider Consulting, Inc.",
+        "subHeading": "XP Coach and Full Stack Software Engineer",
+        "dates": "1997 - Present",
+        "description": [
+          "Elevate teams from 'Doing' Agile to 'Being' and 'Living' Agile.",
+          "Design and deliver community education presentations – e.g., Introduction to TDD, Introduction to Angular JS, Introduction to Meta Programming, Introduction to extreme programming, etc."
+        ]
+      },
+      {
+        "heading": "Galvanize",
+        "subHeading": "Lead Enterprise Instructor",
+        "dates": "Nov 2018 - Nov 2019",
+        "description": [
+          "Deliver boot camp style training to enterprise developers to apply Extreme Programming (XP).",
+          "Teach a class of 30 students more than 100 new technologies and techniques.",
+          "Help teams adopt XP practices through direct pairing while implementing features using a variety of technologies including NodeJS, and React."
+        ]
+      }
+    ],
+    "Education": [
+      {
+        "heading": "University of Wisconsin - Eau Claire",
+        "subHeading": "Coursework toward a BS in Computer Science with an emphasis in Software Engineering.",
+        "dates": "2005",
+        "description": [
+          "Led a software engineering course team that developed software to aggregate partial election results for Wisconsin Public Radio. Reports from this software system are used by a political analyst and on-air-reporter to do analysis and prediction on election night."
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "intro": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In pretium orci in risus eleifend, sed iaculis tortor varius. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque vestibulum aliquet nisl, tempus luctus nisi blandit nec. Aenean mattis lectus diam, sit amet tincidunt nisl pretium at. Curabitur eu rhoncus odio, sit amet ultricies enim. Donec sit amet velit viverra, tempus magna vitae, suscipit erat. Phasellus fermentum nisl ac elit placerat laoreet. In eget elementum eros. Aenean ut metus sapien. Donec rutrum eu lacus nec auctor. Sed ornare leo a risus fringilla cursus.",
+      "Quisque et mauris rhoncus quam convallis tempor ut vitae tortor. Nunc congue tempor erat non mattis. Sed vulputate eu lacus at molestie. Phasellus accumsan semper urna, a volutpat lacus ullamcorper nec. Nunc vulputate consequat vulputate. Donec auctor gravida bibendum. Nullam sagittis eu ex at tincidunt. Sed rhoncus tortor in risus tempor porta."
+    ],
+    "cards": [
+      {
+        "image": "java.jpg",
+        "heading": "Java",
+        "dates": "2001 - Present",
+        "level": "90%",
+        "description": [
+          "Java is the language which which I am most familiar. I used Java for 15 years Pearson VUE to build the test authoring and delivery applications."
+        ]
+      },
+      {
+        "image": "javascript.png",
+        "heading": "JavaScript",
+        "dates": "2011 - Present",
+        "level": "85%",
+        "description": [
+          "I learned JavaScript and AngularJS at the same. My background with compilers helped me understand AngularJS, AngularJS helped me fall in love with JavaScript."
+        ]
+      },
+      {
+        "image": "angular.png",
+        "heading": "Angular",
+        "dates": "2011 - Present",
+        "level": "85%",
+        "description": [
+          "I published my first open source Angular Directive, the angular-bootstrap-datetimepicker, in 2013 and now it thousands of downloads per week."
+        ]
+      },
+      {
+        "image": "react.jpg",
+        "heading": "React",
+        "dates": "2015 - Present",
+        "level": "65%",
+        "description": [
+          "In 2015, I two days to learn React and then live-code a new application in front of 30 students; It went great. I find React easy and intuitive IF you know JavaScript well."
+        ]
+      },
+      {
+        "image": "git.jpg",
+        "heading": "Git",
+        "dates": "2011 - Present",
+        "level": "85%",
+        "description": [
+          "I have used Git version control since 2011 in open source projects, small teams, and Fortune 100 enterprise teams."
+        ]
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "text": "A foolish consistency is the hobgoblin of little minds, adored by little statesmen and philosophers and divines. With consistency a great soul has simply nothing to do.",
+      "author": "Ralph Waldo Emerson, Self-Reliance"
+    },
+    {
+      "text": "When the facts change, I alter my conclusions. What do you do?",
+      "author": "John Maynard Keynes"
+    },
+    {
+      "text": "If we have data, let’s look at data. If all we have are opinions, let’s go with mine.",
+      "author": "Jim Barksdale"
+    }
+  ],
+  "portfolio": {
+    "intro": [
+      "Most of my projects are confidential, but I will share what I can here."
+    ],
+    "cards": [
+      {
+        "image": "angular-bootstrap-datetimepicker.png",
+        "heading": "Angular bootstrap date & time picker",
+        "dates": "20013 - Present",
+        "description": [
+          "Native Angular date/time picker component styled by Twitter Bootstrap and powered by moment.",
+          "When I published this as an open source Angular project, I thought a few people might use it, maybe 20 if I was lucy. Imagine my surprise as the downloads grew! At last count there were nearly 1000 downloads per day."
+        ],
+        "url": "https://github.com/dalelotts/angular-bootstrap-datetimepicker"
+      },
+      {
+        "image": "prize-o-tron.png",
+        "heading": "Prize-O-Tron",
+        "dates": "20014 - Present",
+        "description": [
+          "Simple Angular application to award prizes at Meetup events.",
+          "During my first instructor assignment I discovered that I needed a way to generate random-exhaustive pair programming assignments for the class. Teachers Pet was the result."
+        ],
+        "url": "https://github.com/dalelotts/teachers-pet"
+      },
+      {
+        "image": "teachers-pet.png",
+        "heading": "Teachers Pet",
+        "dates": "20015 - Present",
+        "description": [
+          "Simple Angular application to help with classroom instruction.",
+          "During my first instructor assignment I discovered that I needed a way to generate random-exhaustive pair programming assignments for the class. Teachers Pet was the result."
+        ],
+        "url": "https://github.com/dalelotts/teachers-pet"
+      }
+    ]
+  },
+  "contact": {
+    "email": "hello@dalelotts.com",
+    "phone": "612-208-9601",
+    "city": "Lakewood, OH",
+    "intro": [
+      "Have a project for me? ",
+      "Think I'd be a good fit for your team?",
+      "I'd love to hear from you, give me a shout by using the form below if you'd like to get in contact with me."
+    ]
+  }
+}
